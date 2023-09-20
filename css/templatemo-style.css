@@ -176,6 +176,7 @@ h5 {
   padding-bottom: 140px;
   text-align: center;
   opacity: 0.35;
+  background-position: center;
 }
 #home h1 {
   border: 2px solid rgb(255, 255, 255);
